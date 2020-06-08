@@ -1,8 +1,0 @@
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-tejz = pd.read_csv('zomato.csv')
-dataset = tejz.copy()
-tejz.head()
-tejz.info()
